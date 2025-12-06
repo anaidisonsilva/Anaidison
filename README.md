@@ -1,106 +1,120 @@
-<h1 align="center">👋 Olá, eu sou o Anaidison Silva</h1>
+<!-- BANNER PRINCIPAL -->
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=220&section=header&text=Anaidison%20Silva&fontColor=ffffff&fontSize=55&animation=fadeIn&fontAlignY=40" />
+</h1>
+
+<h3 align="center">Inovação • Tecnologia • Inteligência Artificial • GovTech</h3>
 
 <p align="center">
-  Gestor de Convênios | Técnico em Informática | Desenvolvedor Python<br>
-  Transformando a Administração Pública com Tecnologia, IA e Automação Inteligente.
+  Desenvolvedor Python • Gestor de Convênios • Especialista em Soluções Digitais para o Setor Público
 </p>
 
 ---
 
-## 🚀 Sobre mim
+## 🌐 Quem sou eu
 
-Sou apaixonado por tecnologia aplicada ao serviço público.  
-Atuo na Prefeitura de Alvarenga/MG desenvolvendo soluções reais em:
+Sou movido por um propósito: **transformar a Administração Pública com tecnologia inteligente, humana e eficiente**.
 
-- 🧠 **Inteligência Artificial e RAG**
-- 🏛️ **Sistemas municipais**
-- 💬 **Chatbots inteligentes (WhatsApp)**
-- 🖥️ **Aplicações Python, Django, FastAPI e Streamlit**
-- 🗄️ **Bancos PostgreSQL**
-- 🛠️ **Automação de processos públicos**
-- 📝 **Gestão de convênios e elaboração de documentos técnicos**
+Trabalho diariamente criando soluções que reduzem burocracia, aceleram processos e modernizam a relação entre governo e cidadão.
 
-Atualmente cursando **Pós-graduação em Inteligência Artificial e Computacional pela UFV**.
+Combino minha experiência técnica com minha vivência na gestão pública para construir ferramentas que realmente fazem diferença.
 
 ---
 
-## 🧩 Projetos em Destaque
+## 🚀 O que eu faço
 
-### 🔹 **ConvAI**
-Assistente inteligente para gestão de convênios municipais.  
-Combina IA generativa, embeddings, RAG e extração avançada de PDFs.  
-👉 https://convai.anaidison.com.br/
+Desenvolvo sistemas modernos e inteligentes para atender às necessidades reais de prefeituras, com foco em:
 
----
+### 🔹 **Inteligência Artificial aplicada ao governo**
+Modelos, agentes e fluxos automáticos que interpretam, resumem e analisam informações.
 
-### 🔹 **NeoChat**
-Chatbot para WhatsApp com filas de atendimento, multi-agentes e integração com Evolution API.
+### 🔹 **RAG e automação de documentos**
+Leitura de PDFs, buscas inteligentes, respostas contextuais e geração automática de relatórios.
 
----
+### 🔹 **Chatbots oficiais para WhatsApp**
+Atendimento estruturado, filas, protocolos, notificações e serviços municipais automatizados.
 
-### 🔹 **AtendeChat**
-Sistema web para triagem, filas e atendimento estruturado para prefeituras.
+### 🔹 **Soluções Python para o setor público**
+Sistemas em Django, FastAPI, Streamlit e integrações com serviços oficiais.
 
----
+### 🔹 **Automação de rotinas**
+Ferramentas que economizam horas de trabalho manual todos os dias.
 
-### 🔹 **Sistema Carros Web (Django)**
-Aplicação para cadastro, consulta e gestão de veículos oficiais.
-
----
-
-### 🔹 **Projetos de IA**
-Modelos com TensorFlow, CNNs, K-means, RAG, agentes e aplicações em Python para estudos da UFV.
+### 🔹 **Gestão moderna de convênios**
+Tecnologia aplicada à análise, organização, monitoramento e conformidade.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🧩 Projetos que representam meu trabalho
+
+### ⭐ **ConvAI — IA para Gestão de Convênios**
+Uma plataforma inteligente criada para revolucionar como prefeituras lidam com convênios.  
+Baseada em IA generativa, embeddings, RAG e extração inteligente de documentos.  
+➡️ **https://convai.anaidison.com.br**
+
+---
+
+### ⭐ **NeoChat — Atendimento Oficial via WhatsApp**
+Chatbot institucional com múltiplos agentes, automações, integração com Evolution API e suporte ao cidadão 24h.
+
+---
+
+### ⭐ **Sistema Carros Web**
+Gestão moderna da frota municipal.  
+Aplicação em Django 100% voltada ao serviço público.
+
+---
+
+### ⭐ **IA aplicada à UFV**
+Modelos de visão computacional, redes neurais, clustering, análise inteligente e aplicações práticas de IA.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-  
-</div>
-
----
-
-## 🏛️ Impacto na Administração Pública
-
-Experiência prática desenvolvendo sistemas que fazem diferença no dia a dia municipal:
-
-- Automatização de processos internos
-- Chatbots para atendimento ao cidadão
-- Análise de documentos de convênios
-- Extração inteligente de informações de PDFs
-- Sistemas para gestão de demandas, veículos e setores públicos
-- Relatórios automatizados (PDTI, planos, ofícios, demonstrativos)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-
-![Anaidison GitHub stats](https://github-readme-stats.vercel.app/api?username=anaidison&show_icons=true&theme=tokyonight)
-<br>
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anaidison&theme=tokyo-night)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0A4D3C?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648C?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1D63ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-181717?style=flat-square&logo=linux&logoColor=yellow)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🌐 Onde me encontrar
+## 🏛️ Minha atuação no setor público
 
-- 📌 **Portfólio / ConvAI:** https://convai.anaidison.com.br  
-- 📫 **E-mail:** (insira aqui se quiser)  
-- 🧑‍💼 **LinkedIn:** (coloque o link se tiver)
+Eu acredito que o **governo pode ser moderno, rápido e inteligente** — e minha missão é construir esse futuro.
+
+Meu trabalho envolve:
+
+- Design de soluções GovTech totalmente personalizadas  
+- Automação de setores inteiros da prefeitura  
+- Criação de sistemas que reduzem tempo, esforço e erros  
+- IA que interpreta, organiza e responde informações oficiais  
+- Chatbots que aproximam cidadão e gestão  
+- Ferramentas que dão eficiência sem perder humanidade  
+
+Trabalho para que a tecnologia seja **ponte, não barreira**.
 
 ---
 
-<h3 align="center">💡 Sempre criando soluções, aprendendo e evoluindo.</h3>
+## 🌎 Vamos nos conectar
+
+<p align="center">
+  <a href="https://convai.anaidison.com.br"><strong>🌐 ConvAI / Portfólio</strong></a><br>
+  <a href="mailto:anaidison@icloud.com"><strong>✉️ E-mail: anaidison@icloud.com</strong></a><br>
+  <a href="https://www.linkedin.com/in/anaidisonsilva"><strong>💼 LinkedIn</strong></a>
+</p>
+
+---
+
+<h2 align="center">✨ Transformar o serviço público com tecnologia é mais que trabalho — é missão.</h2>
+
+<!-- FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:4f46e5&height=120&section=footer" />
