@@ -1,4 +1,3 @@
-# Anaidison
 <h1 align="center">👋 Olá, eu sou o Anaidison Silva</h1>
 
 <p align="center">
